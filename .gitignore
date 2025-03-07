@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled files
+*.o
+*.exe
+
